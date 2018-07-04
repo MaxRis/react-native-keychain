@@ -1,4 +1,4 @@
-import { NativeModules, Platform } from 'react-native';
+import { NativeModules, Platform, View } from 'react-native';
 const { RNKeychainManager } = NativeModules;
 
 export const ACCESSIBLE = {
